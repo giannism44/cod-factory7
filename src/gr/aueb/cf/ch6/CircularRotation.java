@@ -19,8 +19,7 @@ public class CircularRotation {
         return rotated;
     }
 
-
-    public static int[] doRightShift(int[] arr , int offset){
+    public static int[] doRightShift(int[] arr, int offset) {
         if (arr == null) return null;
         if (offset < 0) return null;
 
@@ -29,8 +28,6 @@ public class CircularRotation {
         for (int i = 0; i < arr.length; i++) {
             rotated[(i + offset) % arr.length] = arr[i];
         }
-
         return rotated;
-
     }
 }

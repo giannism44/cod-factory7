@@ -18,7 +18,7 @@ public class SelectionSort {
             int minPosition = i;
             int minValue = arr[i];
 
-            for (int j = i; j < arr.length; j++){
+            for (int j = i + 1; j < arr.length; j++){
                 if (arr[j] < minValue){
                     minValue = arr[j];
                     minPosition = j;
