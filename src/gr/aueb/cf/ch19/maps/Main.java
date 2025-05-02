@@ -29,7 +29,7 @@ public class Main {
         }
 
         for (Map.Entry<String, String > entry: countries.entrySet()){
-            System.out.println("Key: " + entry.getKey() + "value: " + entry.getValue());
+            System.out.println("Key: " + entry.getKey() + " value: " + entry.getValue());
         }
 
         countries.forEach((k, v) -> System.out.println("Key: " + k + "value: " + v));

@@ -1,6 +1,4 @@
-package gr.aueb.cf.ch19;
-
-import gr.aueb.cf.ch17.clone.Trainee;
+package gr.aueb.cf.ch19.generics;
 
 import java.util.List;
 

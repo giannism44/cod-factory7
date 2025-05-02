@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch19;
+package gr.aueb.cf.ch19.generics;
 
 public class Node {
     private int item;

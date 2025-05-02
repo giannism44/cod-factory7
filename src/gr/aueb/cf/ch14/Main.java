@@ -8,7 +8,7 @@ import gr.aueb.cf.ch14.services.HelloUtil;
 public class Main {
 
     public static void main(String[] args) {
-        Teacher teacher1 = new Teacher(1, "Ath.", "Michos");
+        Teacher teacher1 = new Teacher(1, "Ath.", "Androutsou");
         Teacher teacher2 = new Teacher(2, "A.", "Giannoutsou");
         Teacher teacher3 = new Teacher(3, "C.", "Papadopoulos");
 
