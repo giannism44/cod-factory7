@@ -1,2 +1,3 @@
-# cod-factory7
-This is my initial repo
+# Coding Factory 7 – Java Ασκήσεις
+
+Αυτό το repository περιέχει ασκήσεις Java που υλοποιήθηκαν στο πλαίσιο του προγράμματος **Coding Factory 7** (ΟΠΑ). Οι ασκήσεις καλύπτουν την πορεία από τα βασικά της Java μέχρι και αντικειμενοστραφή προγραμματισμό (OOP), collections, και πιο σύνθετες έννοιες.
